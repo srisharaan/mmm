@@ -1,6 +1,12 @@
 # welcome
 ## MMM-Message My Mentions 
 
+
+
+***IF you are unable to view the images below please redirect to***
+``https://github.com/srisharaan/mmm``
+
+
 Are you a sleepyhead?\
 DO you often fall asleep during your online classes?\
 Are you so busy during the online classes that you won't be able to attend it?
@@ -13,6 +19,10 @@ You will be notified when your name is being mentioned in any app that is runnin
 This app is able to recognise the audio playing from the speaker of the computer and it processes the audio to match to the name given
 by the user.
 If the condittion matches, this app then triggers twilio to send message to your phone stating that you name was mentioned
+
+### Download link
+https://github.com/srisharaan/mmm/releases/tag/1.0
+
 
 
 ***CONTACT:***
@@ -82,7 +92,11 @@ If the condittion matches, this app then triggers twilio to send message to your
 
 4.The results of speech recognition is fetched from google\
 
+
 5.The details are stored locally in a database which are asked during the startup of the application
+
+
+6. Enter the phone number with the country code
 
 
 5.You gotta tell me
