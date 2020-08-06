@@ -33,7 +33,7 @@ If the condittion matches, this app then triggers twilio to send message to your
 4. Select Microphone as default communication device and stereo mix as default device
 5. this step is essential to record audio 
 
-![second](https://github.com/srisharaan/Automate/blob/master/i%20%26%20us/13.PNG)
+![step 2](https://github.com/srisharaan/mmm/blob/master/screenshots/12.PNG)
 
 
 
