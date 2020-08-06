@@ -1,9 +1,9 @@
 # welcome
 ## MMM-Message My Mentions 
 
-Are you a sleepyhead?
-DO you often fall asleep during your online classes?
-Are you so busy during the online classes that you won't be able to attend it?
+Are you a sleepyhead?\
+DO you often fall asleep during your online classes?\
+Are you so busy during the online classes that you won't be able to attend it?\
 
 so you want to be notified when or if your name is being mentioned in the meeting
 MMM has the solution for you!!
