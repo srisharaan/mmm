@@ -1,6 +1,14 @@
 # welcome
 ## MMM-Message My Mentions 
 
+Are you a sleepyhead?\
+DO you often fall asleep during your online classes?\
+Are you so busy during the online classes that you won't be able to attend it?
+
+
+so you want to be notified when or if your name is being mentioned in the meeting
+MMM has the solution for you!!
+
 You will be notified when your name is being mentioned in any app that is running in the system.
 This app is able to recognise the audio playing from the speaker of the computer and it processes the audio to match to the name given
 by the user.
@@ -33,7 +41,7 @@ If the condittion matches, this app then triggers twilio to send message to your
 4. Select Microphone as default communication device and stereo mix as default device
 5. this step is essential to record audio 
 
-![second](https://github.com/srisharaan/Automate/blob/master/i%20%26%20us/13.PNG)
+![step 2](https://github.com/srisharaan/mmm/blob/master/screenshots/12.PNG)
 
 
 
