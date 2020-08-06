@@ -14,6 +14,10 @@ This app is able to recognise the audio playing from the speaker of the computer
 by the user.
 If the condittion matches, this app then triggers twilio to send message to your phone stating that you name was mentioned
 
+### Download link
+https://github.com/srisharaan/mmm/releases/tag/1.0
+
+
 
 ***CONTACT:***
 
@@ -82,7 +86,11 @@ If the condittion matches, this app then triggers twilio to send message to your
 
 4.The results of speech recognition is fetched from google\
 
+
 5.The details are stored locally in a database which are asked during the startup of the application
+
+
+6. Enter the phone number with the country code
 
 
 5.You gotta tell me
