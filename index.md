@@ -51,7 +51,7 @@ https://github.com/srisharaan/mmm/releases/tag/1.0
 4. Select Microphone as default communication device and stereo mix as default device
 5. this step is essential to record audio 
 
-![step 2](https://github.com/srisharaan/mmm/blob/master/screenshots/12.PNG)
+![step 2](https://github.com/srisharaan/mmm/blob/master/screenshots/13.PNG)
 
 
 
@@ -77,6 +77,7 @@ https://github.com/srisharaan/mmm/releases/tag/1.0
 
 ![registration](https://github.com/srisharaan/mmm/blob/master/screenshots/9.PNG)
 
+9. Follow on screen instructions
 
 
 ***NOTES***
@@ -96,7 +97,9 @@ https://github.com/srisharaan/mmm/releases/tag/1.0
 5.The details are stored locally in a database which are asked during the startup of the application
 
 
-6. Enter the phone number with the country code
+6.Enter the phone number with the country code
 
 
-5.You gotta tell me
+7.Make sure you have a stable internet connections
+
+
