@@ -45,7 +45,7 @@ https://github.com/srisharaan/mmm/releases/tag/1.0
 4. Select Microphone as default communication device and stereo mix as default device
 5. this step is essential to record audio 
 
-![step 2](screenshots/13.PNG?raw=true)
+![step 2](screenshots/12.PNG)
 
 
 
