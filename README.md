@@ -45,7 +45,7 @@ https://github.com/srisharaan/mmm/releases/tag/1.0
 4. Select Microphone as default communication device and stereo mix as default device
 5. this step is essential to record audio 
 
-![step 2](https://github.com/srisharaan/mmm/blob/master/screenshots/12.PNG)
+![step 2](https://github.com/srisharaan/mmm/blob/master/screenshots/13.PNG?raw=true)
 
 
 
@@ -93,4 +93,4 @@ https://github.com/srisharaan/mmm/releases/tag/1.0
 6. Enter the phone number with the country code
 
 
-5.You gotta tell me
+7.You gotta tell me
