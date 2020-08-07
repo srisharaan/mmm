@@ -93,4 +93,4 @@ https://github.com/srisharaan/mmm/releases/tag/1.0
 6. Enter the phone number with the country code
 
 
-7.You gotta tell me
+7.Make sure you have a stable internet connection
