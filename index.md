@@ -1,12 +1,6 @@
 # welcome
 ## MMM-Message My Mentions 
 
-
-
-***IF you are unable to view the images below please redirect to***
-``https://github.com/srisharaan/mmm``
-
-
 Are you a sleepyhead?\
 DO you often fall asleep during your online classes?\
 Are you so busy during the online classes that you won't be able to attend it?
@@ -42,40 +36,40 @@ https://github.com/srisharaan/mmm/releases/tag/1.0
 1. Setting->system->sound
 2. select ``sound control panel``
 
-![step1](https://github.com/srisharaan/mmm/blob/master/screenshots/11.PNG)
+![step1](screenshots/11.PNG)
 
 3.``right click->show disabled device``
 
-![step 2](https://github.com/srisharaan/mmm/blob/master/screenshots/12.PNG)
+![step 2](screenshots/12.PNG)
 
 4. Select Microphone as default communication device and stereo mix as default device
 5. this step is essential to record audio 
 
-![step 2](https://github.com/srisharaan/mmm/blob/master/screenshots/12.PNG)
+![step 2](screenshots/13.PNG)
 
 
 
 6.goto ``twilio.com/try-twilio``
 
-![registration](https://github.com/srisharaan/mmm/blob/master/screenshots/Inked2_LI.jpg)
+![s3](screenshots/Inked2_LI.jpg)
 
-![registration](https://github.com/srisharaan/mmm/blob/master/screenshots/Inked3_LI.jpg)
+![s4](screenshots/Inked3_LI.jpg)
 
-![registration](https://github.com/srisharaan/mmm/blob/master/screenshots/Inked4_LI.jpg)
+![s5](screenshots/Inked4_LI.jpg)
 
-![registration](https://github.com/srisharaan/mmm/blob/master/screenshots/Inked5_LI.jpg)
+![s6](screenshots/Inked5_LI.jpg)
 
-![registration](https://github.com/srisharaan/mmm/blob/master/screenshots/Inked6_LI.jpg)
+![s7](screenshots/Inked6_LI.jpg)
 
 7. open ``mmm.exe``` 
 
-![registration](https://github.com/srisharaan/mmm/blob/master/screenshots/7.PNG)
+![registration](screenshots/7.PNG)
 
 8. Enter the details asked, which can be found in the twiliio website
 
-![registration](https://github.com/srisharaan/mmm/blob/master/screenshots/Inked8_LI.jpg)
+![r](screenshots/Inked8_LI.jpg)
 
-![registration](https://github.com/srisharaan/mmm/blob/master/screenshots/9.PNG)
+![s8](screenshots/9.PNG)
 
 
 
@@ -96,7 +90,7 @@ https://github.com/srisharaan/mmm/releases/tag/1.0
 5.The details are stored locally in a database which are asked during the startup of the application
 
 
-6. Enter the phone number with the country code
+6.Enter the phone number with the country code
 
 
-5.You gotta tell me
+7.Make sure you have a stable internet connection
