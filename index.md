@@ -1,12 +1,6 @@
 # welcome
 ## MMM-Message My Mentions 
 
-
-
-***IF you are unable to view the images below please redirect to***
-``https://github.com/srisharaan/mmm``
-
-
 Are you a sleepyhead?\
 DO you often fall asleep during your online classes?\
 Are you so busy during the online classes that you won't be able to attend it?
@@ -51,7 +45,7 @@ https://github.com/srisharaan/mmm/releases/tag/1.0
 4. Select Microphone as default communication device and stereo mix as default device
 5. this step is essential to record audio 
 
-![step 2](https://github.com/srisharaan/mmm/blob/master/screenshots/13.PNG)
+![step 2](https://github.com/srisharaan/mmm/blob/master/screenshots/13.PNG?raw=true)
 
 
 
@@ -77,7 +71,6 @@ https://github.com/srisharaan/mmm/releases/tag/1.0
 
 ![registration](https://github.com/srisharaan/mmm/blob/master/screenshots/9.PNG)
 
-9. Follow on screen instructions
 
 
 ***NOTES***
@@ -100,6 +93,4 @@ https://github.com/srisharaan/mmm/releases/tag/1.0
 6.Enter the phone number with the country code
 
 
-7.Make sure you have a stable internet connections
-
-
+7.Make sure you have a stable internet connection
