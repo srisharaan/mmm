@@ -51,15 +51,15 @@ https://github.com/srisharaan/mmm/releases/tag/1.0
 
 6.goto ``twilio.com/try-twilio``
 
-![registration](screenshots/Inked2_LI.jpg)
+![s3](screenshots/Inked2_LI.jpg)
 
-![registration](screenshots/Inked3_LI.jpg)
+![s4](screenshots/Inked3_LI.jpg)
 
-![registration](screenshots/Inked4_LI.jpg)
+![s5](screenshots/Inked4_LI.jpg)
 
-![registration](screenshots/Inked5_LI.jpg)
+![s6](screenshots/Inked5_LI.jpg)
 
-![registration](screenshots/Inked6_LI.jpg)
+![s7](screenshots/Inked6_LI.jpg)
 
 7. open ``mmm.exe``` 
 
@@ -69,7 +69,7 @@ https://github.com/srisharaan/mmm/releases/tag/1.0
 
 ![r](screenshots/Inked8_LI.jpg)
 
-![registration](screenshots/9.PNG)
+![s8](screenshots/9.PNG)
 
 
 
