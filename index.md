@@ -67,7 +67,7 @@ https://github.com/srisharaan/mmm/releases/tag/1.0
 
 8. Enter the details asked, which can be found in the twiliio website
 
-![registration](https://github.com/srisharaan/mmm/blob/master/screenshots/Inked8_LI.jpg)
+![registration](screenshots/Inked8_LI.jpg)
 
 ![registration](https://github.com/srisharaan/mmm/blob/master/screenshots/9.PNG)
 
