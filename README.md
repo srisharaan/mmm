@@ -1,5 +1,4 @@
-# welcome
-## MMM-Message My Mentions 
+# MMM-Message My Mentions 
 
 Are you a sleepyhead?\
 DO you often fall asleep during your online classes?\
@@ -14,7 +13,7 @@ This app is able to recognise the audio playing from the speaker of the computer
 by the user.
 If the condittion matches, this app then triggers twilio to send message to your phone stating that you name was mentioned
 
-### Download link
+## Download link
 https://github.com/srisharaan/mmm/releases/tag/1.02
 
 
