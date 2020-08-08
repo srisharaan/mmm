@@ -14,7 +14,7 @@ by the user.
 If the condittion matches, this app then triggers twilio to send message to your phone stating that you name was mentioned
 
 ## Download link
-https://github.com/srisharaan/mmm/releases/tag/1.02
+https://github.com/srisharaan/mmm/releases/tag/v1.0.2
 
 
 
