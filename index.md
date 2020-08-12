@@ -62,13 +62,12 @@ If the condittion matches, this app then triggers twilio to send message to your
 
 7. open ``mmm.exe``` 
 
-![registration](screenshots/7.PNG)
+![registration](screenshots/17.PNG)
 
 8. Enter the details asked, which can be found in the twiliio website
 
-![r](screenshots/Inked8_LI.jpg)
 
-![s8](screenshots/9.PNG)
+![s8](screenshots/18.PNG)
 
 
 
