@@ -14,7 +14,7 @@ by the user.
 If the condittion matches, this app then triggers twilio to send message to your phone stating that you name was mentioned
 
 ## Download link
-``https://github.com/srisharaan/mmm/releases/tag/v1.0.3``
+you can download the MMM setup file [here](https://github.com/srisharaan/mmm/releases/tag/v1.0.4 "MMM-Message My Mentions")
 
 
 
@@ -26,8 +26,8 @@ If the condittion matches, this app then triggers twilio to send message to your
 
    *Instagram*
 
-    ``instagram.com/srisharaan``
-
+    ``instagram.com/srisharaan``\
+    check my instagram profile [here](instagram.com/srisharaan)
 
 
 ***INSTRUCTIONS***
