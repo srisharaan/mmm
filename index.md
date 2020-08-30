@@ -35,21 +35,21 @@ You can download the MMM setup file [here](https://github.com/srisharaan/mmm/rel
 ***INSTRUCTIONS***
 
 1. Setting->system->sound
-2. select ``sound control panel``
+2. Select ``sound control panel``
 ![step1](screenshots/11.PNG)
 
-3.``right click->show disabled device``
+3.``Right click->show disabled device``
 
 ![step 2](screenshots/12.PNG)
 
 4. Select Microphone as default communication device and stereo mix as default device
-5. this step is essential to record audio 
+5. This step is essential to record audio 
 
 ![step 2](screenshots/12.PNG)
 
 
 
-6.goto ``twilio.com/try-twilio``
+6. Goto ``twilio.com/try-twilio``
 
 ![s3](screenshots/Inked2_LI.jpg)
 
@@ -61,11 +61,11 @@ You can download the MMM setup file [here](https://github.com/srisharaan/mmm/rel
 
 ![s7](screenshots/Inked6_LI.jpg)
 
-7.open ``mmm.exe``` 
+7. open ``mmm.exe``` 
 
 ![registration](1.0.4ss/op.PNG)
 
-8.choose your desired option\
+8. choose your desired option\
   Start-To start using MMMM\
   About-To know about the app and the developer\
   Tutorial-To learn the usage of the application\
@@ -73,40 +73,40 @@ You can download the MMM setup file [here](https://github.com/srisharaan/mmm/rel
 
 
 
-9.Selece how you need to be notified
+9. Selece how you need to be notified
 
 ![s8](1.0.4ss/se.PNG)
 
 
 
-10 The following are one time process
+10. The following are one time process
 
 
-11Enter your twilio account details
+11. Enter your twilio account details
 
 ![tw](1.0.4ss/tw.PNG)
 
 
 
-12click ok to save your details
+12. click ok to save your details
 
 ![tw](1.0.4ss/tw1.PNG)
 
 
 
-13.click next to proceed further
+13. click next to proceed further
 
 ![tw](1.0.4ss/tw2.PNG)
 
 
 
-14.Enter the hot work for which you must be notified
+14. Enter the hot work for which you must be notified
 
 ![na](1.0.4ss/na.PNG)
 
 
 
-15.click Add word to add another word and finish to start the app
+15. Click Add word to add another word and finish to start the app
 
 
 
