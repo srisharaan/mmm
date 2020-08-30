@@ -62,9 +62,13 @@ If the condittion matches, this app then triggers twilio to send message to your
 
 7. open ``mmm.exe``` 
 
-![registration](screenshots/17.PNG)
+![registration](1.0.4ss/op.PNG)
 
-8. Enter the details asked, which can be found in the twiliio website
+8. choose your desired option
+  Start-To start using MMMM
+  About-To know about the app and the developer
+  Tutorial-To learn the usage of the application
+  Donate-To donate to the developer
 
 
 ![s8](screenshots/18.PNG)
