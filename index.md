@@ -73,6 +73,7 @@ If the condittion matches, this app then triggers twilio to send message to your
 
 
 9.Selece how you need to be notified
+
 ![s8](1.0.4ss/se.PNG)
 
 
@@ -81,21 +82,25 @@ If the condittion matches, this app then triggers twilio to send message to your
 
 
 11Enter your twilio account details
+
 ![tw](1.0.4ss/tw.PNG)
 
 
 
 12click ok to save your details
+
 ![tw](1.0.4ss/tw1.PNG)
 
 
 
 13.click next to proceed further
+
 ![tw](1.0.4ss/tw2.PNG)
 
 
 
 14.Enter the hot work for which you must be notified
+
 ![na](1.0.4ss/na.PNG)
 
 
