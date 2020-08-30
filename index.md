@@ -70,22 +70,35 @@ If the condittion matches, this app then triggers twilio to send message to your
   Tutorial-To learn the usage of the application\
   Donate-To donate to the developer.
 
+
+
 9.Selece how you need to be notified
 ![s8](1.0.4ss/se.PNG)
 
+
+
 10 The following are one time process
+
 
 11Enter your twilio account details
 ![tw](1.0.4ss/tw.PNG)
 
+
+
 12click ok to save your details
-![tw](1.0.4ss/tw1PNG)
+![tw](1.0.4ss/tw1.PNG)
+
+
 
 13.click next to proceed further
-![tw](1.0.4ss/tw2PNG)
+![tw](1.0.4ss/tw2.PNG)
+
+
 
 14.Enter the hot work for which you must be notified
 ![na](1.0.4ss/na.PNG)
+
+
 
 15.click Add word to add another word and finish to start the app
 
