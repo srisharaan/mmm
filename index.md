@@ -36,7 +36,6 @@ You can download the MMM setup file [here](https://github.com/srisharaan/mmm/rel
 
 1. Setting->system->sound
 2. select ``sound control panel``
-
 ![step1](screenshots/11.PNG)
 
 3.``right click->show disabled device``
@@ -62,11 +61,11 @@ You can download the MMM setup file [here](https://github.com/srisharaan/mmm/rel
 
 ![s7](screenshots/Inked6_LI.jpg)
 
-7. open ``mmm.exe``` 
+7.open ``mmm.exe``` 
 
 ![registration](1.0.4ss/op.PNG)
 
-8. choose your desired option\
+8.choose your desired option\
   Start-To start using MMMM\
   About-To know about the app and the developer\
   Tutorial-To learn the usage of the application\
