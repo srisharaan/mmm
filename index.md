@@ -64,29 +64,46 @@ If the condittion matches, this app then triggers twilio to send message to your
 
 ![registration](1.0.4ss/op.PNG)
 
-8. choose your desired option
-  Start-To start using MMMM
-  About-To know about the app and the developer
-  Tutorial-To learn the usage of the application
-  Donate-To donate to the developer
+8. choose your desired option\
+  Start-To start using MMMM\
+  About-To know about the app and the developer\
+  Tutorial-To learn the usage of the application\
+  Donate-To donate to the developer.
 
+9.Selece how you need to be notified
+![s8](1.0.4/se.PNG)
 
-![s8](screenshots/18.PNG)
+10 The following are one time process
+
+11Enter your twilio account details
+![tw](1.0.4/tw.PNG)
+
+12click ok to save your details
+![tw](1.0.4/tw1PNG)
+
+13.click next to proceed further
+![tw](1.0.4/tw2PNG)
+
+14.Enter the hot work for which you must be notified
+![na](1.0.4/na.PNG)
+
+15.click Add word to add another word and finish to start the app
+
 
 
 
 ***NOTES***
 
-1.Make sure to fill the details without any mistakes\
+1.Make sure to fill the details without any mistakes
 
 
-2.Don't delete any files inside the folder\
+2.Don't delete any files inside the folder
 
 
-3.The script is working but you just can't expect 100% accuracy\
+3.The script is working but you just can't expect 100% accuracy
 
 
-4.The results of speech recognition is fetched from google\
+4.The results of speech recognition is fetched from google
 
 
 5.The details are stored locally in a database which are asked during the startup of the application
