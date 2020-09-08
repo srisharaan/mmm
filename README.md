@@ -14,7 +14,9 @@ by the user.
 If the condittion matches, this app then triggers twilio to send message to your phone stating that you name was mentioned
 
 ## Download link
-https://github.com/srisharaan/mmm/releases/tag/v1.0.3
+You can download the MMM setup file [here](https://github.com/srisharaan/mmm/releases/tag/v1.0.4 "MMM-Message My Mentions")
+
+<https://github.com/srisharaan/mmm/releases/tag/v1.0.4>
 
 
 
@@ -26,8 +28,8 @@ https://github.com/srisharaan/mmm/releases/tag/v1.0.3
 
    *Instagram*
 
-    ``instagram.com/srisharaan``
-
+    instagram.com/srisharaan
+    check my instagram profile [here](instagram.com/srisharaan)
 
 
 ***INSTRUCTIONS***
@@ -50,42 +52,78 @@ https://github.com/srisharaan/mmm/releases/tag/v1.0.3
 
 6.goto ``twilio.com/try-twilio``
 
-![registration](screenshots/Inked2_LI.jpg)
+![s3](screenshots/Inked2_LI.jpg)
 
-![registration](screenshots/Inked3_LI.jpg)
+![s4](screenshots/Inked3_LI.jpg)
 
-![registration](screenshots/Inked4_LI.jpg)
+![s5](screenshots/Inked4_LI.jpg)
 
-![registration](screenshots/Inked5_LI.jpg)
+![s6](screenshots/Inked5_LI.jpg)
 
-![registration](screenshots/Inked6_LI.jpg)
+![s7](screenshots/Inked6_LI.jpg)
 
 7. open ``mmm.exe``` 
 
-![registration](screenshots/7.PNG)
+![registration](1.0.4ss/op.PNG)
 
-8. Enter the details asked, which can be found in the twiliio website
+8. choose your desired option\
+  Start-To start using MMMM\
+  About-To know about the app and the developer\
+  Tutorial-To learn the usage of the application\
+  Donate-To donate to the developer.
 
-![registration](screenshots/Inked8_LI.jpg)
 
-![registration](screenshots/9.PNG)
 
-9.Follow on screen instructions
+9.Selece how you need to be notified
+
+![s8](1.0.4ss/se.PNG)
+
+
+
+10 The following are one time process
+
+
+11Enter your twilio account details
+
+![tw](1.0.4ss/tw.PNG)
+
+
+
+12click ok to save your details
+
+![tw](1.0.4ss/tw1.PNG)
+
+
+
+13.click next to proceed further
+
+![tw](1.0.4ss/tw2.PNG)
+
+
+
+14.Enter the hot work for which you must be notified
+
+![na](1.0.4ss/na.PNG)
+
+
+
+15.click Add word to add another word and finish to start the app
+
 
 
 
 ***NOTES***
 
-1.Make sure to fill the details without any mistakes\
+1.Make sure to fill the details without any mistakes
 
 
-2.Don't delete any files inside the folder\
+2.Don't delete any files inside the folder
 
 
-3.The script is working but you just can't expect 100% accuracy\
+3.The script is working but you just can't expect 100% accuracy
 
 
-4.The results of speech recognition is fetched from google\
+4.The results of speech recognition is fetched from google
 
 
 5.The details are stored locally in a database which are asked during the startup of the application
