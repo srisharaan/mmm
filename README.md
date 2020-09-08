@@ -16,7 +16,7 @@ If the condittion matches, this app then triggers twilio to send message to your
 ## Download link
 You can download the MMM setup file [here](https://github.com/srisharaan/mmm/releases/tag/v1.0.4 "MMM-Message My Mentions")
 
-<https://github.com/srisharaan/mmm/releases/tag/v1.0.4>
+<http://srisharaan.github.io/mmm>
 
 
 
