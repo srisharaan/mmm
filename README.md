@@ -35,3 +35,6 @@ You can download the MMM setup file [here](https://github.com/srisharaan/mmm/rel
 ***INSTRUCTIONS***
 
 For instructions please do click [here](srisharaan.github.io/mmm)
+
+***feel free to fork my repository for further development of MMM***
+
