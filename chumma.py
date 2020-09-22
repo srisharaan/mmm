@@ -47,6 +47,7 @@ def hi(a,b):
     #print("fun")
     #print(type(b))
     dosa=b.split(" ")
+    print(dosa)
     f=len(a)
     j=0
     vandhachu=0
@@ -55,18 +56,32 @@ def hi(a,b):
     while(j<f):
         result=process.extract(a[j],dosa)
         #print(type(result))
-        #print(result)
+        #print("for a[j]")
+        print(a[j])
+        print(result)
+        oo=[y[0] for y in result]
+        print(oo)
         g=[x[1] for x in result]
+        print(g)
+        leng=len(g)
+        #print("lengthhhuh")
+        #print(leng)
         j=j+1
-        for i in g:
-            #print("insideuh")
-            if(i>75):
-                #print(g[0])
+        i=0
+        while(i<leng):
+            #print(g[i])
+            #print("gof i")
+            if(g[i]>=80):
+                temp=oo[i]
+                print(temp)
+                #print(g[i])
                 vandhachu=1
                 break
+            i=i+1
         if(vandhachu==1):
             return vandhachu
             break
+        
     #print("done")
     
 
@@ -78,5 +93,5 @@ print(aa)
 '''
 #a=["elakkeya","elukeya","elackiya","elakiya"]
 #b="can you please turn the mic on eluckya and keys"
-#h=hi(a,b)
-#print("velila")
+#velila=hi(a,b)
+#print(velila)

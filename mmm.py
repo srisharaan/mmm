@@ -17,7 +17,7 @@ import tkinter as tk
 
 
 def hear(arr,j,k):
-    #print("np")
+    #print(arr)
     slave=Tk()
     slave['background']='#99643A'
     slave.title("MMM")
@@ -26,12 +26,15 @@ def hear(arr,j,k):
     mylabel1.grid(row=3,column=0)
     slave.update()
     while(1):
+        #print("first")
         i=0
         # obtain audio from the microphone
         r = sr.Recognizer()
         with sr.Microphone() as source:
             audio = r.listen(source)
+            #print("about to start")
             try:
+                #print("started")
                 # for testing purposes, we're just using the default API key
                 # to use another API key, use `r.recognize_google(audio, key="GOOGLE_SPEECH_RECOGNITION_API_KEY")`
                 # instead of `r.recognize_google(audio)`
@@ -42,36 +45,37 @@ def hear(arr,j,k):
                 a=a.lower()
                 #print(a)
                 #print(type(a))
+                flage=[]
                 while(i<j):
-                    flage = arr[i]
-                    flage = str(flage)
-                    flage=flage.lower()
+                    jumma = arr[i]
+                    kumma = str(jumma)
+                    flage.append(kumma)
+                    i=i+1
  
-                    #print("flage")
-                    #print(flage)
-                    temp=hi(flage,a)
-                    #print(match)
-                    i = i + 1
+                #print("flage")
+                #print(flage)
+                temp=hi(flage,a)
+                #print(match)
                     #print("insideuh")
-                    if (temp==1):
-                        sms(flage,k)
-                        #return 1
-                        break
+                if (temp==1):
+                    sms(flage,k)
+                    #return 1
+                    break
 
 
                        
             except sr.UnknownValueError:
-                #print("Could not understand audio")
-                mylabel1=Label(slave,text="listening",bg='#99643A',fg='white')
-                mylabel1.grid(row=3,column=0)
-                slave.update
+                print("Could not understand audio")
+                #mylabel1=Label(slave,text="listening",bg='#99643A',fg='white')
+                #mylabel1.grid(row=3,column=0)
+                #slave.update
             except sr.RequestError as e:
-                #print("Could not request results{0}".format(e))
-                mylabel1=Label(slave,text="listening",bg='#99643A',fg='white')
-                mylabel1.grid(row=3,column=0)
-                slave.update
+                print("Could not request results{0}".format(e))
+                #mylabel1=Label(slave,text="listening",bg='#99643A',fg='white')
+                #mylabel1.grid(row=3,column=0)
+                #slave.update
             #slave.mainloop()
-                
+    slave.destroy()   
         
         
 
@@ -108,7 +112,7 @@ def sms(flage,k):
         # the following line needs your Twilio Account SID and Auth Token
         client = Client(acc,uid)
         #print(flage)
-        msg="Hi,this message is from MMM because the word "+flage+" was mentioned."
+        msg="Hi,this message is from MMM because your hot word was mentioned."
         # change the "from_" number to your Twilio number and the "to" number
         # to the phone number you signed up for Twilio with, or upgrade your
         # account to send SMS to any phone number
@@ -117,7 +121,7 @@ def sms(flage,k):
         #mylabel=Label(win,text="calling/sms sent",bg='#99643A',fg='white')
         #mylabel.grid(row=3,column=0)
         client = Client(acc,uid)
-        msg="Hi,this message is from MMM because the word "+flage+" was mentioned."
+        msg="Hi,this message is from MMM because your hot word was mentioned."
         client.messages.create(to=too,from_=no,body=msg)
         call = client.calls.create(
             url='https://demo.twilio.com/welcome/voice/',
@@ -166,5 +170,5 @@ def func(k):
     k=int(k)
     while(1):
         hear(arr,j,k)
-#func(2)
+func(2)
 
